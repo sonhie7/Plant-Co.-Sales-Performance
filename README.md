@@ -81,7 +81,7 @@ Conditional formatting is applied so that the **YTD vs PYTD KPI changes color wh
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 This project demonstrates my ability to:
 - Design interactive Power BI dashboards
 - Use Power Query for data preparation
