@@ -80,6 +80,9 @@ Conditional formatting is applied so that the **YTD vs PYTD KPI changes color wh
 - Ensured consistent layout, spacing, and color usage for better UX  
 
 ---
+![Power BI Dashboard](DTS image.PNG)
+
+---
 
 ## Conclusion
 This project demonstrates my ability to:
